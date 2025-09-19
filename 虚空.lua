@@ -1,7 +1,7 @@
 local Translations = {
    --["这里填要替换的英文"] = "这里填中文",
     ["lnformation"] = "信息",
-    ["Voidware"] = [""] = "虚空",
+    ["Voidware"] = "虚空",
     ["discord.gg/voidware"] = "Z某人汉化",
     ["en"] = "英文",
     ["Search"] = "搜索",
@@ -80,7 +80,6 @@ local Translations = {
     ["Bring OthersBring Others"] = "传送其他物品",
     ["Others"] = "其他物品",
     ["Diamond"] = "钻石",
-    [""] = "",
 }
 
 local function translateText(text)

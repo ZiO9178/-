@@ -62,8 +62,7 @@ local Translations = {
     ["LocalPlayer"] = "本地玩家",
     ["Mis"] = "杂项",
     ["Tree"] = "树木",
-    ["Settings"] = "设置"
-    ["Campfire"] = "篝火",
+    ["Settings"] = "设置",
     ["Scrapper"] = "拆解机",
     ["Bring Without TP"] = "无传送获取",
     ["Error"] = "错误",
@@ -166,7 +165,6 @@ local Translations = {
     ["Item Chest2 (1)"] = "物品宝箱2(1)",
     ["Volcanic Chest1 (1)"] = "火山宝箱1(1)",
     ["Volcanic Chest1 (2)"] = "火山宝箱1(2)",
-    ["How to use, you must have 1 saplings to be able to inf"] = "使用方法，你必须有1棵树苗才能进行操作",
     ["Shape"] = "形状",
     ["Spacing"] = "间距",
     ["Size"] = "大小",
@@ -189,6 +187,8 @@ local Translations = {
     ["Slow"] = "缓慢",
     ["Player"] = "玩家",
     ["Build Plant (inf tree)"] = "种植（无限树木）"
+    ["How to use, you must have 1 saplings to be able to inf"] = "使用方法，你必须有1棵树苗才能进行操作",
+    ["Campfire"] = "篝火",
 }
 
 local function translateText(text)
